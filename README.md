@@ -5,7 +5,7 @@
 
 # Live Demo
 
-[![Streamlit App](https://financial-statement-analyzer-python-ai-insights-h6vvqm8jsetwcw.streamlit.app/) 
+![Streamlit App](https://financial-statement-analyzer-python-ai-insights-h6vvqm8jsetwcw.streamlit.app/) 
 ---
 
 

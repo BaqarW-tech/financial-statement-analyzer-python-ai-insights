@@ -2,17 +2,12 @@
 
 > Upload any company's financials and get automated ratio analysis, dynamic multi-chart dashboards, an AI-generated analyst report, and a net income waterfall bridge — all in one interactive app.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 
+# Live Demo
+
+[![Streamlit App](https://financial-statement-analyzer-python-ai-insights-h6vvqm8jsetwcw.streamlit.app/) 
 ---
 
-## 🔴 Live Demo
-
-👉 **[Launch App](https://your-app-url.streamlit.app)**
-
-Comes pre-loaded with **Saudi Aramco (2019–2023)** sample data. Upload your own CSV to analyse any company instantly.
-
----
 
 ## 🎯 What This App Does
 
